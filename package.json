@@ -2,6 +2,9 @@
   "name": "random-phone-number",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "8.11.1"
+  },
   "dependencies": {
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
