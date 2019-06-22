@@ -1,28 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### About phone number generator
+This App generates unique phone numbers.
 
-## Available Scripts
+### Features
+- Sorting Numbers in ascending and descending orders
+- Identifies the Higest and Lowest phone number as per integer
+- Maintains unique list of numbers
 
-In the project directory, you can run:
+#### Setting up
+- clone the repo
+- cd into project
+- run `yarn install`
+- run `npm start`
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm start`
+### Running tests
+- At the root directory
+- Run `npm test`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
+### For production build
+run `npm run build`
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
+##### Acknowledgemnts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
