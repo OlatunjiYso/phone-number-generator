@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the ListingSection component 1`] = `ShallowWrapper {}`;
+
+exports[`renders the ListingSection component 2`] = `ShallowWrapper {}`;

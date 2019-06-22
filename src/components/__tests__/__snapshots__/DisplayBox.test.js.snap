@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the  component 1`] = `ShallowWrapper {}`;
+
+exports[`renders the App component 1`] = `ShallowWrapper {}`;
+
+exports[`renders the DisplayBocx component 1`] = `ShallowWrapper {}`;
+
+exports[`renders the DisplayBox component 1`] = `ShallowWrapper {}`;
